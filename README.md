@@ -1,3 +1,3 @@
-# Project1
+cd# Project1
 This is my first github repositary
-Author - Karanveer Singh
+Author - Karanveer Singh(Apna College)
